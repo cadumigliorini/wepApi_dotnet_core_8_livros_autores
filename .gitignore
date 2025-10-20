@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+out/
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# ASP.NET / Web
+appsettings.Development.json
+*.db
+*.mdb
+
+# Logs
+*.log
+
+# Rider
+.idea/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
